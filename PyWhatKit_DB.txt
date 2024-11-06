@@ -1,0 +1,78 @@
+Date: 30/10/2024
+Time: 14:25
+Group ID: 13981317461
+Image: ./img/outubro rosa fpbe gestão.jpeg
+Caption: teste
+--------------------
+Date: 30/10/2024
+Time: 14:31
+Group ID: 5513981317461
+Image: ./img/outubro rosa fpbe gestão.jpeg
+Caption: 
+--------------------
+Date: 30/10/2024
+Time: 14:35
+Phone Number: +5513981317461
+Image: ./img/outubro rosa fpbe gestão.jpeg
+Caption: 
+--------------------
+Date: 30/10/2024
+Time: 14:36
+Phone Number: +5513981317461
+Image: ./img/outubro rosa fpbe gestão.jpeg
+Caption: 
+--------------------
+Date: 30/10/2024
+Time: 14:38
+Phone Number: +5513981317461
+Image: ./img/outubro rosa fpbe gestão.jpeg
+Caption: Olá rafael, Gostaríamos de informar que o curso de ads está com inscrições abertas. Para mais informações, entre em contato conosco. Atenciosamente, Faculdade Peruíbe
+--------------------
+Date: 30/10/2024
+Time: 14:39
+Phone Number: +55 13 99663-7736
+Image: ./img/outubro rosa fpbe gestão.jpeg
+Caption: Olá Graucia, Gostaríamos de informar que o curso de Administração está com inscrições abertas. Para mais informações, entre em contato conosco. Atenciosamente, Faculdade Peruíbe
+--------------------
+Date: 30/10/2024
+Time: 14:39
+Phone Number: +55 13 99724-0657
+Image: ./img/outubro rosa fpbe gestão.jpeg
+Caption: Olá Paula, Gostaríamos de informar que o curso de Arquitetura está com inscrições abertas. Para mais informações, entre em contato conosco. Atenciosamente, Faculdade Peruíbe
+--------------------
+Date: 30/10/2024
+Time: 14:45
+Phone Number: +5513981317461
+Image: ./img/outubro rosa fpbe gestão.jpeg
+Caption: Olá Rafael, Gostaríamos de informar que o curso de ads está com as inscrições abertas. Para mais informações, entre em contato conosco. Atenciosamente, Faculdade Peruíbe
+--------------------
+Date: 30/10/2024
+Time: 14:45
+Phone Number: +55 13 99663-7736
+Image: ./img/outubro rosa fpbe gestão.jpeg
+Caption: Olá Graucia, Gostaríamos de informar que o curso de Administração está com as inscrições abertas. Para mais informações, entre em contato conosco. Atenciosamente, Faculdade Peruíbe
+--------------------
+Date: 30/10/2024
+Time: 14:46
+Phone Number: +55 13 99724-0657
+Image: ./img/outubro rosa fpbe gestão.jpeg
+Caption: Olá Paula, Gostaríamos de informar que o curso de Arquitetura está com as inscrições abertas. Para mais informações, entre em contato conosco. Atenciosamente, Faculdade Peruíbe
+--------------------
+Date: 30/10/2024
+Time: 14:48
+Phone Number: +5513981317461
+Image: ./img/outubro rosa fpbe gestão.jpeg
+Caption: Olá Rafael, Gostaríamos de informar que o curso de ads está com as inscrições abertas. Para mais informações, entre em contato conosco. Atenciosamente, Faculdade Peruíbe
+--------------------
+Date: 30/10/2024
+Time: 14:49
+Phone Number: +55 13 99663-7736
+Image: ./img/outubro rosa fpbe gestão.jpeg
+Caption: Olá Graucia, Gostaríamos de informar que o curso de Administração está com as inscrições abertas. Para mais informações, entre em contato conosco. Atenciosamente, Faculdade Peruíbe
+--------------------
+Date: 30/10/2024
+Time: 14:49
+Phone Number: +55 13 99724-0657
+Image: ./img/outubro rosa fpbe gestão.jpeg
+Caption: Olá Paula, Gostaríamos de informar que o curso de Arquitetura está com as inscrições abertas. Para mais informações, entre em contato conosco. Atenciosamente, Faculdade Peruíbe
+--------------------
