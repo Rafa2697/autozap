@@ -16,7 +16,7 @@ for linha in pagina_clientes.iter_rows(min_row=2):
     sleep_time = random.uniform(1, 30) #tempo de espera entre cada mensagem
     
     cont += 1 #contador de linhas
-    #nome, telefone, vencimento
+    print(f'{cont} - {linha[0].value} - {linha[2].value} - {linha[3].value}')
     nome = linha[0].value
     primeiro_nome = nome.split()[0]
     telefone = str(linha[2].value) 
