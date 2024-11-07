@@ -23,9 +23,16 @@ for linha in pagina_clientes.iter_rows(min_row=2):
     
     
     mensagem = f'''
-Olá {nome}, Gostaríamos de informar que o curso de *{curso}* está com as inscrições abertas. Para mais informações, entre em contato conosco.
-    
+Olá {nome}, Gostaríamos de informar que o curso de *{curso}* está com as inscrições abertas. 
+E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. 
+
+Para mais informações, entre em contato conosco. 
+
 *Atenciosamente, Faculdade Peruíbe*
+
+Digite 1 para mais informações
+
+Digite 2 não tem interesse
     '''
 
     #Preciso inserir a imagem aqui para ir junto com a mensagem
@@ -34,3 +41,5 @@ Olá {nome}, Gostaríamos de informar que o curso de *{curso}* está com as insc
     sleep(5)
     pyautogui.hotkey('ctrl', 'w')  # Atalho para fechar a aba
     sleep(sleep_time)
+
+print('Fim da transmissão')
