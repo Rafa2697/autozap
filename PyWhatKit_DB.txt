@@ -154,3 +154,375 @@ Phone Number: +5513-97424-7263
 Image: ./img/outuvembro.jpeg
 Caption: Olá RAMON, Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
 --------------------
+Date: 7/11/2024
+Time: 16:5
+Phone Number: +5513-99632-4582
+Image: ./img/outuvembro.jpeg
+Caption: Olá Gilberto jurado, Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:6
+Phone Number: +5513-97424-7263
+Image: ./img/outuvembro.jpeg
+Caption: Olá RAMON, Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:7
+Phone Number: +5513-99743-5701
+Image: ./img/outuvembro.jpeg
+Caption: Olá MIRIÃ, Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:7
+Phone Number: +55(13) 99733-7177
+Image: ./img/outuvembro.jpeg
+Caption: Olá João, Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:8
+Phone Number: +55(13) 99685-5347
+Image: ./img/outuvembro.jpeg
+Caption: Olá Beatriz, Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:8
+Phone Number: +5513 99664-8809
+Image: ./img/outuvembro.jpeg
+Caption: Olá Gustavo, Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:9
+Phone Number: +5513996318961
+Image: ./img/outuvembro.jpeg
+Caption: Olá Gustavo, Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:9
+Phone Number: +5511957093174
+Image: ./img/outuvembro.jpeg
+Caption: Olá Renan, Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:10
+Phone Number: +5513992149369
+Image: ./img/outuvembro.jpeg
+Caption: Olá Fernanda, Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:11
+Phone Number: +5511-91104-9489
+Image: ./img/outuvembro.jpeg
+Caption: Olá FABIO , Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:11
+Phone Number: +5511966588509
+Image: ./img/outuvembro.jpeg
+Caption: Olá Vitor, Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:43
+Phone Number: +5513-99102-8801
+Image: ./img/outuvembro.jpeg
+Caption: Olá Giovana, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:44
+Phone Number: +5513 99202-7028
+Image: ./img/outuvembro.jpeg
+Caption: Olá Amanda, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:45
+Phone Number: +5519-7621-5086
+Image: ./img/outuvembro.jpeg
+Caption: Olá Kayane, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:46
+Phone Number: +5511-98802-8047
+Image: ./img/outuvembro.jpeg
+Caption: Olá Andreia, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:46
+Phone Number: +5513-99785-9342
+Image: ./img/outuvembro.jpeg
+Caption: Olá Tainara, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:47
+Phone Number: +5513-99618-3886
+Image: ./img/outuvembro.jpeg
+Caption: Olá Roseane, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:48
+Phone Number: +5513-99772-2443
+Image: ./img/outuvembro.jpeg
+Caption: Olá Tais, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:48
+Phone Number: +5513-9963-11687
+Image: ./img/outuvembro.jpeg
+Caption: Olá Laryssa, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:49
+Phone Number: +5513-98161-5416
+Image: ./img/outuvembro.jpeg
+Caption: Olá Pedro, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:50
+Phone Number: +5513-99756-8145
+Image: ./img/outuvembro.jpeg
+Caption: Olá Gabriely, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:50
+Phone Number: +5513-99653-7038
+Image: ./img/outuvembro.jpeg
+Caption: Olá LARISSA, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:51
+Phone Number: +5513-99756-1348
+Image: ./img/outuvembro.jpeg
+Caption: Olá ANA, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:51
+Phone Number: +5513-99778-4101
+Image: ./img/outuvembro.jpeg
+Caption: Olá SHEILA-, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:52
+Phone Number: +5511973249702
+Image: ./img/outuvembro.jpeg
+Caption: Olá AMANDA, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:52
+Phone Number: +5513978243536
+Image: ./img/outuvembro.jpeg
+Caption: Olá Carla, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:53
+Phone Number: +5513 99624-6267
+Image: ./img/outuvembro.jpeg
+Caption: Olá MARIA, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:53
+Phone Number: +55(11) 9978-65702
+Image: ./img/outuvembro.jpeg
+Caption: Olá LORRAYNE, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:54
+Phone Number: +55(13) 9968-09949
+Image: ./img/outuvembro.jpeg
+Caption: Olá KAMILA, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:55
+Phone Number: +55(13) 9968-65320
+Image: ./img/outuvembro.jpeg
+Caption: Olá REGINA, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:56
+Phone Number: +55(13) 9910-78033
+Image: ./img/outuvembro.jpeg
+Caption: Olá BRUNO, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:56
+Phone Number: +55(13) 99680 0325
+Image: ./img/outuvembro.jpeg
+Caption: Olá LUCIANA, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:57
+Phone Number: +55(13) 996966273
+Image: ./img/outuvembro.jpeg
+Caption: Olá BRUNA, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:57
+Phone Number: +55(11) 91355-9736
+Image: ./img/outuvembro.jpeg
+Caption: Olá AYLLA, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:58
+Phone Number: +55(13) 99154-8626
+Image: ./img/outuvembro.jpeg
+Caption: Olá NATASHA, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:59
+Phone Number: +5513-99759-6525
+Image: ./img/outuvembro.jpeg
+Caption: Olá NULCE, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:59
+Phone Number: +5513997623179
+Image: ./img/outuvembro.jpeg
+Caption: Olá Letícia, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:0
+Phone Number: +5513997470151
+Image: ./img/outuvembro.jpeg
+Caption: Olá Ana, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:1
+Phone Number: +5513991731231
+Image: ./img/outuvembro.jpeg
+Caption: Olá Claudiana, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:1
+Phone Number: +5513997401675
+Image: ./img/outuvembro.jpeg
+Caption: Olá Luciane, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:2
+Phone Number: +5513-99617-5598
+Image: ./img/outuvembro.jpeg
+Caption: Olá VERONICA, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:3
+Phone Number: +5513997859598
+Image: ./img/outuvembro.jpeg
+Caption: Olá VANUSA, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:3
+Phone Number: +5513-99156-7779
+Image: ./img/outuvembro.jpeg
+Caption: Olá LUIZ, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:4
+Phone Number: +5513 99166-1767
+Image: ./img/outuvembro.jpeg
+Caption: Olá Vanessa, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:4
+Phone Number: +5513997683539
+Image: ./img/outuvembro.jpeg
+Caption: Olá NICOLY, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:5
+Phone Number: +5513997764762
+Image: ./img/outuvembro.jpeg
+Caption: Olá Camila, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:6
+Phone Number: +5511942921464
+Image: ./img/outuvembro.jpeg
+Caption: Olá RENATO, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:6
+Phone Number: +5513996322138
+Image: ./img/outuvembro.jpeg
+Caption: Olá Nair, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:7
+Phone Number: +5513 98231-3885
+Image: ./img/outuvembro.jpeg
+Caption: Olá Rafaela, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:7
+Phone Number: +5511-99850-0370
+Image: ./img/outuvembro.jpeg
+Caption: Olá Rita, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:8
+Phone Number: +5513997996714
+Image: ./img/outuvembro.jpeg
+Caption: Olá Ryan, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:8
+Phone Number: +5513997983365
+Image: ./img/outuvembro.jpeg
+Caption: Olá Tuany, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:9
+Phone Number: +5519971724247
+Image: ./img/outuvembro.jpeg
+Caption: Olá Giovanni, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:10
+Phone Number: +5511952256988
+Image: ./img/outuvembro.jpeg
+Caption: Olá Alcineia, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:10
+Phone Number: +5513991768807
+Image: ./img/outuvembro.jpeg
+Caption: Olá Fernando, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:11
+Phone Number: +5511933549610
+Image: ./img/outuvembro.jpeg
+Caption: Olá Deisiane, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:11
+Phone Number: +5513 99166-1767
+Image: ./img/outuvembro.jpeg
+Caption: Olá Vanessa, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:12
+Phone Number: +5513997419026
+Image: ./img/outuvembro.jpeg
+Caption: Olá David, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:12
+Phone Number: +5513996627162
+Image: ./img/outuvembro.jpeg
+Caption: Olá Silene, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:13
+Phone Number: +5511937174475
+Image: ./img/outuvembro.jpeg
+Caption: Olá PEDRO, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:14
+Phone Number: +5513996834861
+Image: ./img/outuvembro.jpeg
+Caption: Olá SIUMARA, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 17:14
+Phone Number: +5513988649770
+Image: ./img/outuvembro.jpeg
+Caption: Olá Raissa, Gostaríamos de informar que o curso de *PEDAGOGIA* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------

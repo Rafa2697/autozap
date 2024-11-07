@@ -10,20 +10,22 @@ import pywhatkit
 workbook = openpyxl.load_workbook('./alunos.xlsx')
 pagina_clientes = workbook['Planilha1']
 
-
+cont = 0
 
 for linha in pagina_clientes.iter_rows(min_row=2):
     sleep_time = random.uniform(1, 30) #tempo de espera entre cada mensagem
     
+    cont += 1 #contador de linhas
     #nome, telefone, vencimento
     nome = linha[0].value
+    primeiro_nome = nome.split()[0]
     telefone = str(linha[2].value) 
     curso = linha[3].value
     midia = './img/outuvembro.jpeg'
     
     
     mensagem = f'''
-Olá {nome}, Gostaríamos de informar que o curso de *{curso}* está com as inscrições abertas. 
+Olá {primeiro_nome}, Gostaríamos de informar que o curso de *{curso}* está com as inscrições abertas. 
 E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. 
 
 Para mais informações, entre em contato conosco. 
@@ -42,4 +44,4 @@ Digite 2 não tem interesse
     pyautogui.hotkey('ctrl', 'w')  # Atalho para fechar a aba
     sleep(sleep_time)
 
-print('Fim da transmissão')
+print(f'Fim da transmissão, {cont} mensagens enviadas')
