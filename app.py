@@ -13,7 +13,7 @@ pagina_clientes = workbook['Planilha1']
 
 
 for linha in pagina_clientes.iter_rows(min_row=2):
-    sleep_time = random.uniform(1, 20) #tempo de espera entre cada mensagem
+    sleep_time = random.uniform(1, 30) #tempo de espera entre cada mensagem
     
     #nome, telefone, vencimento
     nome = linha[0].value

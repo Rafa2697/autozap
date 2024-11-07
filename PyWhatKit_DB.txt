@@ -142,3 +142,15 @@ Group ID: None
 Image: ./img/outuvembro.jpeg
 Caption: Olá None, Gostaríamos de informar que o curso de *None* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
 --------------------
+Date: 7/11/2024
+Time: 16:1
+Phone Number: +5513-99632-4582
+Image: ./img/outuvembro.jpeg
+Caption: Olá Gilberto jurado, Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 7/11/2024
+Time: 16:1
+Phone Number: +5513-97424-7263
+Image: ./img/outuvembro.jpeg
+Caption: Olá RAMON, Gostaríamos de informar que o curso de *Análise e Desenvolvimento de Sistemas* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
