@@ -17,8 +17,8 @@ for linha in pagina_clientes.iter_rows(min_row=2):
     
     #nome, telefone, vencimento
     nome = linha[0].value
-    telefone = str(linha[1].value)
-    curso = linha[2].value
+    telefone = str(linha[2].value) 
+    curso = linha[3].value
     midia = './img/outuvembro.jpeg'
     
     

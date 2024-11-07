@@ -10,3 +10,135 @@ Phone Number: +55(13) 9973-92838
 Image: ./img/outuvembro.jpeg
 Caption: Olá MARIA EDUARDA DOS SANTOS POMPE, Gostaríamos de informar que o curso de *Direito* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
 --------------------
+Date: 7/11/2024
+Time: 15:27
+Phone Number: +5513-99786-4256
+Image: ./img/outuvembro.jpeg
+Caption: Olá DEBORA MOREIRA MAE DO CHARLES, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:28
+Phone Number: +5513-99737-7407
+Image: ./img/outuvembro.jpeg
+Caption: Olá Franciele, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:28
+Phone Number: +5513-99118-0298
+Image: ./img/outuvembro.jpeg
+Caption: Olá Luan Augusto Bastos, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:29
+Phone Number: +5513-99763-1585
+Image: ./img/outuvembro.jpeg
+Caption: Olá Rayssa aparecida da silva, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:29
+Phone Number: +5513-99609-6397
+Image: ./img/outuvembro.jpeg
+Caption: Olá Samantha, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:30
+Phone Number: +5513-97427-7714
+Image: ./img/outuvembro.jpeg
+Caption: Olá Gian Lucca Alves das Neves, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:30
+Phone Number: +55(13) 99688-3505
+Image: ./img/outuvembro.jpeg
+Caption: Olá PAMELA, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:31
+Phone Number: +55(13) 99666-0968
+Image: ./img/outuvembro.jpeg
+Caption: Olá ALLEX EDUARDO GOULART, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:32
+Phone Number: +5513982016274
+Image: ./img/outuvembro.jpeg
+Caption: Olá RAFAEL, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:32
+Phone Number: +5513997948904
+Image: ./img/outuvembro.jpeg
+Caption: Olá Ana Caroline, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:33
+Phone Number: +5513-98108-9238
+Image: ./img/outuvembro.jpeg
+Caption: Olá Deckster, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:33
+Phone Number: +55(13) 99639-5791
+Image: ./img/outuvembro.jpeg
+Caption: Olá GABRIEL, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:34
+Phone Number: +5513996826433
+Image: ./img/outuvembro.jpeg
+Caption: Olá VICTORIA PRADO DE LIMA RIBEIRO, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:35
+Phone Number: +5513996617193
+Image: ./img/outuvembro.jpeg
+Caption: Olá Rute Dias Floripes, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:35
+Phone Number: +5513996692349
+Image: ./img/outuvembro.jpeg
+Caption: Olá Fernanda silva de araujo, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:36
+Phone Number: +5513996352409
+Image: ./img/outuvembro.jpeg
+Caption: Olá Jhennifer Leticia de Oliveira Barbosa, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:36
+Phone Number: +5513991963972
+Image: ./img/outuvembro.jpeg
+Caption: Olá Julia Padovan Dias, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:37
+Phone Number: +5513991798505
+Image: ./img/outuvembro.jpeg
+Caption: Olá Ana Carolina Melo de Souza, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:37
+Phone Number: +5513996855150
+Image: ./img/outuvembro.jpeg
+Caption: Olá Danila Rodrigues, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:38
+Phone Number: +5513974203379
+Image: ./img/outuvembro.jpeg
+Caption: Olá CAMILA CARIAS DA SILVA BASTOS, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:38
+Phone Number: +5511945093977
+Image: ./img/outuvembro.jpeg
+Caption: Olá Hector, Gostaríamos de informar que o curso de *Administração* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
+Date: 7/11/2024
+Time: 15:39
+Group ID: None
+Image: ./img/outuvembro.jpeg
+Caption: Olá None, Gostaríamos de informar que o curso de *None* está com as inscrições abertas. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*
+--------------------
