@@ -1144,3 +1144,99 @@ Phone Number: +5513996610395
 Image: ./img/outuvembro.jpeg
 Caption: Olá Poliana, Gostaríamos de informar que o curso de *Fisioterapia* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
 --------------------
+Date: 8/11/2024
+Time: 14:40
+Phone Number: +5513996610395
+Image: ./img/outuvembro.jpeg
+Caption: Olá Poliana, Gostaríamos de informar que o curso de *Fisioterapia* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 14:41
+Phone Number: +5513997610029
+Image: ./img/outuvembro.jpeg
+Caption: Olá Letycia, Gostaríamos de informar que o curso de *Fisioterapia* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 14:41
+Phone Number: +5513997799135
+Image: ./img/outuvembro.jpeg
+Caption: Olá Camila, Gostaríamos de informar que o curso de *Fisioterapia* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 14:42
+Phone Number: +5513988396377
+Image: ./img/outuvembro.jpeg
+Caption: Olá Lucas, Gostaríamos de informar que o curso de *Fisioterapia* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 15:2
+Phone Number: +5513996961115
+Image: ./img/outuvembro.jpeg
+Caption: Olá Paola, Gostaríamos de informar que o curso de *Educação Física* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 15:3
+Phone Number: +5511985406488
+Image: ./img/outuvembro.jpeg
+Caption: Olá Glaucia, Gostaríamos de informar que o curso de *Educação Física* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 15:4
+Phone Number: +5513981897424
+Image: ./img/outuvembro.jpeg
+Caption: Olá Victoria, Gostaríamos de informar que o curso de *Educação Física* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 15:5
+Phone Number: +5511942726768
+Image: ./img/outuvembro.jpeg
+Caption: Olá Camila, Gostaríamos de informar que o curso de *Educação Física* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 15:5
+Phone Number: +5513981712326
+Image: ./img/outuvembro.jpeg
+Caption: Olá Renata, Gostaríamos de informar que o curso de *Educação Física* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 15:5
+Phone Number: +5513997164719
+Image: ./img/outuvembro.jpeg
+Caption: Olá Kethelen, Gostaríamos de informar que o curso de *Educação Física* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 15:6
+Phone Number: +5519 99661-5912
+Image: ./img/outuvembro.jpeg
+Caption: Olá Kaio, Gostaríamos de informar que o curso de *Educação Física* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 15:7
+Phone Number: +5513996171877
+Image: ./img/outuvembro.jpeg
+Caption: Olá Dayanne, Gostaríamos de informar que o curso de *Educação Física* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 15:7
+Phone Number: +5511932942133
+Image: ./img/outuvembro.jpeg
+Caption: Olá Kamila, Gostaríamos de informar que o curso de *Educação Física* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 15:7
+Phone Number: +55(13) 9960-33058
+Image: ./img/outuvembro.jpeg
+Caption: Olá Gabriel, Gostaríamos de informar que o curso de *Educação Física* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 15:8
+Phone Number: +5513996646329
+Image: ./img/outuvembro.jpeg
+Caption: Olá Kaique, Gostaríamos de informar que o curso de *Educação Física* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------
+Date: 8/11/2024
+Time: 15:9
+Phone Number: +5513-99760-8942
+Image: ./img/outuvembro.jpeg
+Caption: Olá Yan, Gostaríamos de informar que o curso de *Educação Física* está com as inscrições abertas. E tem mais: estamos com uma campanha especial de OUTUVEMBRO, onde você pode obter até *50% de desconto* nas mensalidades! Aproveite essa oportunidade e transforme sua carreira. Para mais informações, entre em contato conosco. *Atenciosamente, Faculdade Peruíbe*Digite 1 para mais informaçõesDigite 2 não tem interesse
+--------------------

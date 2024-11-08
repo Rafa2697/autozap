@@ -12,7 +12,7 @@ pagina_clientes = workbook['Planilha1']
 
 cont = 0
 
-for linha in pagina_clientes.iter_rows(min_row=2):
+for linha in pagina_clientes.iter_rows(min_row=25):
     sleep_time = random.uniform(1, 30) #tempo de espera entre cada mensagem
     
     cont += 1 #contador de linhas
